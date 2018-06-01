@@ -42,10 +42,10 @@
           position: 10
           editor: 'Neos.Neos/Inspector/Editors/TextAreaEditor'
           editorOptions:
-            placeholder: 'max. 156 characters'
+            placeholder: 'max. 220 characters'
       validation:
         'Neos.Neos/Validation/StringLengthValidator':
-          maximum: 156
+          maximum: 220
     metaKeywords:
       type: string
       ui:
